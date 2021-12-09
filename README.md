@@ -1,6 +1,6 @@
 - 👋 Hi, I’m @ScienceRu;
-- 👀 I’m interested in JAVA, SQL, Spring Boot, Microelectronics;
-- 🌱 I’m currently continue learning SQL & Spring, making sandbox projects in JetBrain, Leetcode, SQL academy
+- 👀 I’m interested in JAVA, SQL, Spring, Microelectronics;
+- 🌱 I’m currently continue Spring, making sandbox projects in JetBrain, Leetcode, SQL academy
 - 💞️ I’m looking to collaborate on the projects in backend programming
 - 📫 How to reach me: ivantorzhkov@gmail.com
 
